@@ -1,3 +1,15 @@
+<div align="center">
+
+  <p>
+    <a href="https://github.com/amshivang"><strong>Shivang Shukla (@amshivang)</strong></a> • 
+    <a href="https://github.com/amshivang?tab=repositories">Portfolio Repositories</a> • 
+    <a href="https://github.com/firstcontributions/first-contributions/pull/123830">Merged Open Source Contribution (PR #123830)</a>
+  </p>
+
+</div>
+
+---
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -246,10 +258,22 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 
 ---
+
+## 👤 Fork Author & Contributor
+
 <div align="center">
-  <a href="https://www.buymeacoffee.com/amshivang">
-    <img src="https://raw.githubusercontent.com/amshivang/amshivang/main/qr-code.png" alt="Buy Me A Coffee" width="250">
+  <p><strong>Shivang Shukla</strong></p>
+  <p><em>Cybersecurity & Digital Forensics Scholar</em></p>
+
+  <p>
+    <a href="https://github.com/amshivang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/amshivang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:linkwithshivang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+
+  <a href="https://buymeacoffee.com/amshivang">
+    <img src="https://raw.githubusercontent.com/amshivang/amshivang/main/qr-code.png" alt="Buy Me A Coffee" width="180">
   </a>
   <br>
-  <strong><a href="https://www.buymeacoffee.com/amshivang">Support my work on Buy Me A Coffee! ☕</a></strong>
+  <strong><a href="https://buymeacoffee.com/amshivang">☕ Support my open-source work on Buy Me A Coffee!</a></strong>
 </div>
